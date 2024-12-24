@@ -13,7 +13,6 @@ This is an elegant, minimalistic To-Do List web application designed to help use
 - **Task Management**: Mark tasks as completed or delete them.
 - **User-Friendly Interface**: A sleek design with an elegant black background for a modern look.
 - **Responsive Design**: Optimized for both desktop and mobile devices.
-- **Real-Time Clock**: Displays the current time for better task tracking.
 
 ---
 
@@ -55,8 +54,7 @@ This To-Do List web application is designed to provide users with an elegant and
 ## Features
 
 - **Task Addition**: Easily add new tasks with a timestamp.
-- **Task Prioritization**: Select task priority levels (High, Medium, Low).
-- **Task Management**: Mark tasks as completed or delete them.
+- **Task Management**: Mark tasks as completed.
 - **Dynamic Interface**: A responsive, real-time interface designed for a seamless user experience.
 - **Styling**: Features a professionally designed black background to enhance aesthetics.
 
@@ -75,15 +73,13 @@ This To-Do List web application is designed to provide users with an elegant and
 - **Add a Task**:
 
 Enter your task in the input field.
-Select a priority level from the dropdown menu.
 Click the "Add Task" button to add the task to the list.
 - **Manage Tasks**:
 
 Mark tasks as completed by clicking the checkbox.
-Edit or delete tasks using the corresponding buttons.
 - **View Timestamps**:
 
-Each task is displayed with its creation time.
+Each task is displayed with its time.
 
 ---
 # Future Enhancements
@@ -91,6 +87,8 @@ Each task is displayed with its creation time.
 - **Theme Customization**: Provide users with the ability to switch themes.
 - **Reminders**: Include notifications for high-priority or overdue tasks.
 - **Account Syncing**: Allow users to save tasks and sync them across multiple devices.
+- **Real time Clock**: Allow users to tell at which time the task was created.
+- **Task Prioritization**: Allow users to select task priority levels (High, Medium, Low).
 
 ---
 # Contributing
