@@ -1,0 +1,66 @@
+body {
+    font-family: cursive;
+    text-align: center;
+    margin: 200px;
+    background-image: url(wallpaperflare-cropped.jpg);
+}
+
+h1 {
+    margin-bottom: 100px;
+    color: whitesmoke;
+    font-style: italic ;
+    text-decoration: underline;
+}
+
+.input-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: cursive;
+}
+
+input[type="text"],
+input[type="datetime-local"] {
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: cursive;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    font-family: cursive;
+}
+
+li {
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid #030303;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    font-family: cursive;
+}
+
+.deadline {
+    color: black;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: red;
+}
