@@ -30,7 +30,7 @@ This is an elegant, minimalistic To-Do List web application designed to help use
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todo-list-app.git
+   git clone https://github.com/Sagnik-rc/To-Do-List-application.git
 2. Navigate to the Project Folder:
    ```bash
    cd todo-list-app
