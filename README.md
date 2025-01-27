@@ -56,13 +56,9 @@ Mark tasks as completed by clicking the tick button.
 After each task is done, we can delete them for newer tasks.
 
 ---
-# Future Enhancements
-- **Save Tasks**: Add functionality to save tasks in local storage.
-- **Theme Customization**: Provide users with the ability to switch themes.
-- **Reminders**: Include notifications for high-priority or overdue tasks.
-- **Account Syncing**: Allow users to save tasks and sync them across multiple devices.
-- **Real time Clock**: Allow users to tell at which time the task was created.
-- **Task Prioritization**: Allow users to select task priority levels (High, Medium, Low).
+# Incoming Updates
+- **A real time clock**: This will help users to track time during browsing
+- **Data Sync**: Users will be able to store their data and can access it any time they want.
 
 ---
 # Contributing
